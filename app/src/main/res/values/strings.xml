@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task Master</string>
+
+    <!-- Add these lines -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_sort"
+        android:title="Sort"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/action_filter"
+        android:title="Filter"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        tools:ignore="HardcodedText" />
+</menu>
